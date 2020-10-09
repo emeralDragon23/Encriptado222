@@ -4,6 +4,7 @@
 #formula f(n)=n+13 si 1<=n<=13, f(n)=n-13 si 14<=n<= 26
 #alfabeto.
 #for des-encrypt https://www.rot13.com/
+#https://code.sololearn.com/cE7PVZMuSGmQ/#py
 
 valores = { 'a':1,'b':2,'c':3,'d':4,'e':5,'f':6,'g':7,'h':8,
             'i':9,'j':10,'k':11,'l':12,'m':13,'n':14,'o':15,'p':16,
